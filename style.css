@@ -1,4 +1,44 @@
 body {
-    background-color: hotpink;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding:0;
+
+  }
+  h1{
+    color: blue;
+    margin-top: 20px
+  }
+  #guest-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
   }
   
+  #guest-name {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    width: 200px;
+    max-width:  100%;
+
+  }
+
+  #guest-form button {
+    padding: 10px 16px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  #guest-form button:hover {
+    background-color: #ff7200;
+  }
