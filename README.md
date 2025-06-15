@@ -20,14 +20,14 @@ This project allows users to:
 
 ## Features
 
-- ✅ Add a guest name
-- ✅ Show guest name in a list
-- ✅ Delete guest from the list
-- ✅ Limit to 10 guests (shows alert if limit is passed)
-- ✅ Toggle RSVP status (Attending / Not Attending)
-- 🌟 Extra: Add guest type (Friend, Family, Colleague)
-- 🌟 Extra: Show time guest was added
-- 🌟 Extra: Edit guest name
+-  Add a guest name
+-  Show guest name in a list
+-  Delete guest from the list
+- Limit to 10 guests (shows alert if limit is passed)
+-  Toggle RSVP status (Attending / Not Attending)
+-  Extra: Add guest type (Friend, Family, Colleague)
+-  Extra: Show time guest was added
+-  Extra: Edit guest name
 
 ---
 
